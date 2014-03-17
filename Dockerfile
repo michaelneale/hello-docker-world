@@ -1,2 +1,3 @@
 FROM debian
-CMD Fdsfds
+CMD echo 42
+RUN fdsjjklfds
