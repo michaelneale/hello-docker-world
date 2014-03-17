@@ -1,2 +1,2 @@
 FROM debian
-CMD echo 42
+CMD Fdsfds
