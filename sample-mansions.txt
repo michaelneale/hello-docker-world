@@ -1,0 +1,5 @@
+
+small lxc https://lxc-51576eb8-test.mansions.cloudbees.com/lxc
+small lxc https://lxcsml1-test.mansions.cloudbees.com/lxc
+
+osx lxc https://osx2.mansions.cloudbees.com/osx
