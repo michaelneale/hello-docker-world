@@ -1,5 +1,5 @@
 
 lxc small https://lxc-51576eb8-test.mansions.cloudbees.com/lxc
 lxc small https://lxcsml1-test.mansions.cloudbees.com/lxc
-
+# ok fine
 osx standard https://osx1.mansions.cloudbees.com/osx
